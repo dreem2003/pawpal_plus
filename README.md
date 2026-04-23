@@ -17,7 +17,7 @@ A Streamlit web app that helps pet owners plan and schedule daily pet care tasks
 ## Project Structure
 
 ```
-ai110-module2show-pawpal-starter/
+pawpal_plus/
 ├── app.py                  # Streamlit UI entry point
 ├── requirements.txt        # Dependencies
 ├── models/                 # Data classes
@@ -30,6 +30,8 @@ ai110-module2show-pawpal-starter/
 │   └── plan_explainer.py   # Formats plan output as markdown
 ├── utils/
 │   └── validators.py       # Input validation and priority string parsing
+|── assets/
+│   └──                     # system architecture screenshots, images.
 ├── constants/
 │   └── sample_tasks.py     # 10 pre-built sample pet care tasks
 └── tests/                  # Pytest test suite (40+ tests)
