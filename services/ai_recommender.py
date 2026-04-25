@@ -10,7 +10,7 @@ from google.genai import types
 
 from models.pet import Pet
 
-GEMINI_MODEL = "gemini-2.5-pro"
+GEMINI_MODEL = "gemini-2.5-flash"
 
 _BREED_PATTERN = re.compile(r'\("([^"]+)",\s*(high|medium|low)\)')
 _PRIORITY_VALUES = {"high": 3, "medium": 2, "low": 1}
