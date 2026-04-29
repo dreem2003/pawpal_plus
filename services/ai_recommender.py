@@ -133,7 +133,7 @@ You will receive:
 
 Your job:
 1. Recommend between 3 and {max_recommendations} tasks from the list that best match the pet's situation.
-2. For each task, write a specific explanation (2-3 sentences) covering:
+2. For each task, write a specific explanation (1-2 sentences) covering:
    - Why this task matters for THIS breed at THIS age
    - How the owner's notes make this task especially relevant or urgent
    - What benefit the pet will gain (physical, mental, social, or health)
